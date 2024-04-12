@@ -1,6 +1,6 @@
 <?php
 
-namespace Mercyware\States\Providers;
+namespace Mercyware\States\Provider;
 
 use Illuminate\Support\ServiceProvider;
 
